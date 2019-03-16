@@ -1,0 +1,3 @@
+rootProject.name = 'taskbox_1420'
+
+include ':app'
